@@ -102,7 +102,6 @@ You can upload the obtained result json file to [Eval AI](https://evalai.cloudcv
 - [openvqa](https://github.com/MILVLG/openvqa)
 - [grid-feats-vqa](https://github.com/facebookresearch/grid-feats-vqa)
 - [trar](https://github.com/rentainhe/TRAR-VQA)
-- 
 ## Citation
 if our SSA is helpful for your research or you wish to refer the baseline results published here, we'd really appreciate it if you could cite this paper:
 ```
